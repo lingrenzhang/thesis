@@ -1,0 +1,32 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & 8.0935 & 7.12e-14 \\ \hline
+log(gross amount in thousand) & -0.3959 & 2.32e-06 \\ \hline
+guaranteed ratio & -2.276 & 6.4e-04 \\ \hline
+term in months & 0.0217 & 6.91e-03 \\ \hline
+borrower bank same state=TRUE & -0.8939 & 1.57e-06 \\ \hline
+term is full year=TRUE & -3.0686 & \textless 2e-16 \\ \hline
+state group=Great Lakes & -0.4001 & 0.2004 \\ \hline
+state group=Mid Atlantic & -0.3361 & 0.2704 \\ \hline
+state group=New England & -0.5955 & 0.1546 \\ \hline
+state group=Plains & -1.1855 & 1.84e-03 \\ \hline
+state group=Rocky Mountain & 0.0232 & 0.9581 \\ \hline
+state group=Southeast & -0.4243 & 0.2131 \\ \hline
+state group=Southwest & -0.5518 & 0.1704 \\ \hline
+unemployment by state & -0.0201 & 0.8512 \\ \hline
+gdp by state YoY growth & -2.7866 & 0.643 \\ \hline
+gdp by industry YoY growth & 0.0191 & 0.9937 \\ \hline
+S\&P 500 (trailing 1yr) & -1.9063 & 0.1631 \\ \hline
+Case Shiller Housing Index (trailing 1yr) & -2.095 & 0.7008 \\ \hline
+unemployment index & -0.0104 & 3.09e-04 \\ \hline
+google trend index & 0.6978 & 0.5193 \\ \hline
+like index & 0.0412 & 0.2449 \\ \hline
+follower index & -0.0362 & 0.6464 \\ \hline
+friend index & 0.0932 & 0.1641 \\ \hline
+status index & -0.0785 & 0.1793 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

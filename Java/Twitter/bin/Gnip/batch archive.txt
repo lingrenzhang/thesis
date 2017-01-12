@@ -1,0 +1,10 @@
+batch1 Dec06-Dec14
+*batch2 Dec08-Dec12, but Dec08-Dec10 were empty
+batch3 Jan07-Jan11 with regular keyword match
+*batch5 Dec12-Jan13
+batch6 Dec06 with substring keyword match
+batch7 Jan07-Jan11 with substring keyword match
+batch8 Dec06 with regular keyword match
+batch9 Jan07-Jan11 with regular keyword match
+
+* actually run

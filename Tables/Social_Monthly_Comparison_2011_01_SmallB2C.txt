@@ -1,0 +1,8 @@
+Feature & Coefficient & p-value & Coefficient & p-value \\ \hline
+(Intercept) & -7.0285 & \textless 2e-16 & -7.1219 & \textless 2e-16 \\ \hline
+unemployment index & 0.0032 & 1e-10 & 0.0033 & 7.19e-11 \\ \hline
+Google Trend index & -0.9042 & 0.15 & NA & NA \\ \hline
+Like index & -0.018 & 0.3427 & NA & NA \\ \hline
+Follower index & -0.1648 & 3.45e-06 & -0.1708 & 1e-06 \\ \hline
+Friend index & 0.081 & 0.0198 & 0.0821 & 0.0182 \\ \hline
+monthly Tweet growth rate & -0.0189 & 0.818 & NA & NA \\ \hline

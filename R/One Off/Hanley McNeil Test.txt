@@ -1,0 +1,11 @@
+B2C Binary
+z = -0.0332, p-value = 0.9735
+
+B2C Monthly
+z = -0.046, p-value = 0.9633
+
+B2B Binary
+z = -0.2959, p-value = 0.7673
+
+B2B Monthly
+z = -0.0107, p-value = 0.9914

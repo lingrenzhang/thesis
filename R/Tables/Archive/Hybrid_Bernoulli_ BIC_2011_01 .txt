@@ -1,0 +1,16 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & 7.8962 & 6.68e-16 \\ \hline
+log(gross amount in thousand) & -0.3984 & 1.15e-06 \\ \hline
+guaranteed ratio & -2.3327 & 2.39e-04 \\ \hline
+term in months & 0.0207 & 7.1e-03 \\ \hline
+borrower bank same state=TRUE & -0.9422 & 9.25e-08 \\ \hline
+term is full year=TRUE & -3.0266 & \textless 2e-16 \\ \hline
+S\&P 500 (trailing 1yr) & -2.2797 & 0.0224 \\ \hline
+unemployment index & -0.0103 & 2.07e-06 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

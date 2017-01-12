@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/fluent-hc-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/httpclient-cache-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lz7/Dropbox/Default Prediction For Small Business Loans/Java Supporting Package/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

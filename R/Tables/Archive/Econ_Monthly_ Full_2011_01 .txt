@@ -1,0 +1,26 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & -4.7149 & \textless 2e-16 \\ \hline
+log(gross amount in thousand) & -0.2993 & \textless 2e-16 \\ \hline
+guaranteed ratio & -0.7856 & 1.02e-04 \\ \hline
+term in months & -0.0059 & 4.58e-11 \\ \hline
+borrower bank same state=TRUE & -0.4714 & 1.7e-10 \\ \hline
+term is full year=TRUE & -3.071 & \textless 2e-16 \\ \hline
+state group=Great Lakes & -0.5531 & 4.97e-08 \\ \hline
+state group=Mid Atlantic & 0.2274 & 0.0323 \\ \hline
+state group=New England & 0.2871 & 0.0808 \\ \hline
+state group=Plains & 0.0995 & 0.5572 \\ \hline
+state group=Rocky Mountain & 0.4572 & 1.03e-03 \\ \hline
+state group=Southeast & 0.1089 & 0.2114 \\ \hline
+state group=Southwest & 0.6 & 2.48e-08 \\ \hline
+unemployment by state & 0.2955 & \textless 2e-16 \\ \hline
+gdp by state YoY growth & 1.5639 & 0.227 \\ \hline
+gdp by industry YoY growth & -0.654 & 0.3366 \\ \hline
+S\&P 500 (trailing 1yr) & -0.3289 & 0.1597 \\ \hline
+Case Shiller Housing Index (trailing 1yr) & 7.0588 & 1.27e-04 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

@@ -1,0 +1,22 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & 6.1609 & \textless 2e-16 \\ \hline
+log(gross amount in thousand) & -0.4057 & 6.93e-07 \\ \hline
+guaranteed ratio & -2.4877 & 1.1e-04 \\ \hline
+term in months & 0.0256 & 7.34e-04 \\ \hline
+borrower bank same state=TRUE & -0.8987 & 7.09e-07 \\ \hline
+term is full year=TRUE & -3.0252 & \textless 2e-16 \\ \hline
+state group=Great Lakes & -0.3217 & 0.282 \\ \hline
+state group=Mid Atlantic & -0.6256 & 0.0292 \\ \hline
+state group=New England & -0.9585 & 0.0144 \\ \hline
+state group=Plains & -1.4239 & 6.69e-05 \\ \hline
+state group=Rocky Mountain & -0.6477 & 0.1031 \\ \hline
+state group=Southeast & -0.6201 & 0.0398 \\ \hline
+state group=Southwest & -0.8842 & 0.02 \\ \hline
+unemployment by state & -0.2919 & 3.71e-05 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

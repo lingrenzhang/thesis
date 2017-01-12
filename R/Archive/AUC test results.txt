@@ -1,0 +1,7 @@
+Big
+Bernoulli: 0.6178
+Monthly: 0.8328
+
+Small
+Bernoulli: 0.8165
+Monthly: 0.9871

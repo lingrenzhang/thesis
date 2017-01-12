@@ -1,0 +1,8 @@
+Feature & Coefficient & p-value & Coefficient & p-value \\ \hline
+(Intercept) & -7.0269 & \textless 2e-16 & -7.1219 & \textless 2e-16 \\ \hline
+unemployment index & 0.0032 & 1.02e-10 & 0.0033 & 7.19e-11 \\ \hline
+google trend index & -0.9044 & 0.1499 & NA & NA \\ \hline
+like index & -0.0179 & 0.3456 & NA & NA \\ \hline
+follower index & -0.162 & 1.12e-04 & -0.1708 & 1e-06 \\ \hline
+friend index & 0.0818 & 0.0197 & 0.0821 & 0.0182 \\ \hline
+status index & -0.0042 & 0.8839 & NA & NA \\ \hline

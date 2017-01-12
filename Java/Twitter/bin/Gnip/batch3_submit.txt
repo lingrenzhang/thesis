@@ -1,0 +1,4 @@
+https://historical.gnip.com:443/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/5hx4sw2dn2.json
+https://historical.gnip.com:443/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/hpzkv78j8f.json
+https://historical.gnip.com:443/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/h3vx8kyxqn.json
+https://historical.gnip.com:443/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/spxs3tjbyc.json

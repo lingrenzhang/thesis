@@ -1,0 +1,25 @@
+Feature & Coefficient & p-value & Coefficient & p-value \\ \hline
+(Intercept) & -5.0064 & \textless 2e-16 & -4.9497 & \textless 2e-16 \\ \hline
+log(gross amount in thousand) & -0.2966 & \textless 2e-16 & -0.2971 & \textless 2e-16 \\ \hline
+guaranteed ratio & -0.7339 & 2.69e-04 & -0.7337 & 2.68e-04 \\ \hline
+term in months & -0.0059 & 2.87e-11 & -0.0059 & 3.26e-11 \\ \hline
+borrower bank same state=TRUE & -0.4771 & 1.15e-10 & -0.476 & 1.25e-10 \\ \hline
+term is full year=TRUE & -3.0599 & \textless 2e-16 & -3.0609 & \textless 2e-16 \\ \hline
+state group=Great Lakes & -0.6577 & 1.48e-10 & -0.6597 & 1.18e-10 \\ \hline
+state group=Mid Atlantic & -0.0561 & 0.6233 & -0.058 & 0.6091 \\ \hline
+state group=New England & -0.0692 & 0.6891 & -0.0688 & 0.6902 \\ \hline
+state group=Plains & -0.3408 & 0.0612 & -0.3378 & 0.0626 \\ \hline
+state group=Rocky Mountain & -0.0624 & 0.6911 & -0.0656 & 0.6744 \\ \hline
+state group=Southeast & -0.132 & 0.1628 & -0.1347 & 0.1526 \\ \hline
+state group=Southwest & 0.1888 & 0.122 & 0.1866 & 0.1241 \\ \hline
+unemployment by state & 0.1401 & 2.89e-07 & 0.1405 & 1.62e-07 \\ \hline
+gdp by state YoY growth & -5.9611 & 2.27e-04 & -5.9177 & 2.41e-04 \\ \hline
+gdp by industry YoY growth & -1.7078 & 6.05e-03 & -1.7117 & 5.84e-03 \\ \hline
+S\&P 500 (trailing 1yr) & 0.0318 & 0.89 & NA & NA \\ \hline
+Case Shiller Housing Index (trailing 1yr) & 8.8716 & 2.49e-05 & 9.0945 & 4.67e-09 \\ \hline
+unemployment index & 0.0038 & 2.61e-06 & 0.0038 & 2.43e-06 \\ \hline
+google trend index & -0.7674 & 0.0472 & -0.7699 & 0.0466 \\ \hline
+like index & 0.0114 & 0.349 & NA & NA \\ \hline
+follower index & -0.0698 & 8.37e-03 & -0.076 & 6.07e-04 \\ \hline
+friend index & 0.046 & 0.0392 & 0.0433 & 0.0483 \\ \hline
+status index & -0.0121 & 0.5381 & NA & NA \\ \hline

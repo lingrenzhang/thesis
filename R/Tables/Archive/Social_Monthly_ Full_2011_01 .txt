@@ -1,0 +1,15 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & -6.8181 & \textless 2e-16 \\ \hline
+unemployment index & 0.0026 & 1.68e-15 \\ \hline
+google trend index & 0.4135 & 0.2937 \\ \hline
+like index & 0.0127 & 0.2959 \\ \hline
+follower index & -0.1469 & 5.99e-08 \\ \hline
+friend index & 0.0879 & 8.46e-05 \\ \hline
+status index & -0.0128 & 0.5052 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

@@ -1,0 +1,25 @@
+Feature & Coefficient & p-value & Coefficient & p-value \\ \hline
+(Intercept) & 7.6085 & 1.1e-09 & 7.4602 & 3.31e-14 \\ \hline
+log(gross amount in thousand) & -0.4035 & 1.48e-06 & -0.4123 & 5.23e-07 \\ \hline
+guaranteed ratio & -2.5548 & 1.25e-04 & -2.3986 & 1.56e-04 \\ \hline
+term in months & 0.022 & 6.09e-03 & 0.0199 & 9.4e-03 \\ \hline
+borrower bank same state=TRUE & -0.9093 & 1.23e-06 & -0.9397 & 1e-07 \\ \hline
+term is full year=TRUE & -3.0658 & \textless 2e-16 & -3.0404 & \textless 2e-16 \\ \hline
+state group=Great Lakes & -0.3109 & 0.3378 & NA & NA \\ \hline
+state group=Mid Atlantic & -0.3334 & 0.2819 & NA & NA \\ \hline
+state group=New England & -0.5888 & 0.1618 & NA & NA \\ \hline
+state group=Plains & -1.0349 & 0.0115 & NA & NA \\ \hline
+state group=Rocky Mountain & 0.0031 & 0.9943 & NA & NA \\ \hline
+state group=Southeast & -0.2798 & 0.4126 & NA & NA \\ \hline
+state group=Southwest & -0.5091 & 0.202 & NA & NA \\ \hline
+unemployment by state & 0.017 & 0.8764 & NA & NA \\ \hline
+GDP by state YoY growth & 5.235 & 0.4105 & NA & NA \\ \hline
+GDP by industry YoY growth & -2.1477 & 0.5478 & NA & NA \\ \hline
+S\&P 500 (trailing 1yr) & -0.5504 & 0.6849 & -1.1865 & 0.2305 \\ \hline
+Case Shiller Housing Index (trailing 1yr) & -4.4888 & 0.3514 & NA & NA \\ \hline
+unemployment index & -0.0095 & 1.18e-03 & -0.009 & 2.73e-05 \\ \hline
+Google Trend index & -0.5727 & 0.5219 & NA & NA \\ \hline
+Like index & 0.0321 & 0.3614 & NA & NA \\ \hline
+Follower index & -0.0956 & 0.1502 & NA & NA \\ \hline
+Friend index & 0.08 & 0.2214 & NA & NA \\ \hline
+monthly Tweet growth rate & -0.7595 & 0.5149 & NA & NA \\ \hline

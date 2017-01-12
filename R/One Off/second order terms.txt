@@ -1,0 +1,19 @@
+<none>                                                   16135 16155
+- log(fb_likes + 1):log(adjustedfollowercount + 1)  1    16138 16156
+- google_trend:log(fb_likes + 1)                    1    16139 16157
+- I(log(adjustedfollowercount + 1)^2)               1    16150 16168
+- log(adjustedfriendcount + 1)                      1    16151 16169
+- I(unemployment^2)                                 1    16296 16314
+- unemployment                                      1    16318 16336
+
+                                                   Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                                      -1.731e+01  9.670e-01 -17.899  < 2e-16 ***
+unemployment                                      4.625e-02  3.887e-03  11.900  < 2e-16 ***
+google_trend                                      7.837e-01  8.899e-01   0.881   0.3785    
+log(fb_likes + 1)                                 3.018e-02  1.702e-02   1.773   0.0762 .  
+log(adjustedfollowercount + 1)                   -2.433e-01  4.566e-02  -5.328 9.92e-08 ***
+log(adjustedfriendcount + 1)                      8.819e-02  2.219e-02   3.975 7.04e-05 ***
+I(unemployment^2)                                -4.417e-05  3.893e-06 -11.347  < 2e-16 ***
+I(log(adjustedfollowercount + 1)^2)               1.973e-02  4.645e-03   4.248 2.15e-05 ***
+google_trend:log(fb_likes + 1)                   -2.968e-01  1.597e-01  -1.858   0.0632 .  
+log(fb_likes + 1):log(adjustedfollowercount + 1) -8.890e-03  5.153e-03  -1.725   0.0844 .  

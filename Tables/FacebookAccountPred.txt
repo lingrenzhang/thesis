@@ -1,0 +1,30 @@
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & -3.269 & \textless 2e-16 \\ \hline
+log(gross amount in thousand) & 0.1065 & 3.35e-04 \\ \hline
+state group=Great Lakes & 0.054 & 0.6158 \\ \hline
+state group=Mid Atlantic & 0.0566 & 0.5899 \\ \hline
+state group=New England & -0.0859 & 0.5701 \\ \hline
+state group=Plains & 0.2421 & 0.0598 \\ \hline
+state group=Rocky Mountain & 0.1562 & 0.2723 \\ \hline
+state group=Southeast & 0.008 & 0.9412 \\ \hline
+state group=Southwest & -0.2465 & 0.0732 \\ \hline
+industry=Administrative and Support and  & -0.297 & 0.1391 \\
+Waste Management and Remediation Services & & \\ \hline
+industry=Agriculture, Forestry, Fishing and Hunting & -0.0792 & 0.8564 \\ \hline
+industry=Arts, Entertainment, and Recreation & -0.08 & 0.7721 \\ \hline
+industry=Construction & -0.0956 & 0.5286 \\ \hline
+industry=Educational Services & 0.2146 & 0.4899 \\ \hline
+industry=Finance and Insurance & -0.0597 & 0.8374 \\ \hline
+industry=Health Care and Social Assistance & -0.1157 & 0.5686 \\ \hline
+industry=Information & -0.0895 & 0.7581 \\ \hline
+industry=Management of Companies and Enterprises & 1.768 & 0.1283 \\ \hline
+industry=Manufacturing & 0.3359 & 0.0283 \\ \hline
+industry=Mining & -11.8271 & 0.9394 \\ \hline
+industry=Other Services (except Public Administration) & 0.1274 & 0.4253 \\ \hline
+industry=Professional, Scientific, and Technical Services & 0.1375 & 0.3675 \\ \hline
+industry=Public Administration & -11.5783 & 0.9852 \\ \hline
+industry=Real Estate Rental and Leasing & 0.0778 & 0.737 \\ \hline
+industry=Retail Trade & 0.2744 & 0.0484 \\ \hline
+industry=Transportation and Warehousing & -0.1351 & 0.4834 \\ \hline
+industry=Utilities & 0.8783 & 0.2519 \\ \hline
+industry=Wholesale Trade & 0.0583 & 0.7224 \\ \hline

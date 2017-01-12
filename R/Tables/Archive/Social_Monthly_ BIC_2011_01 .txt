@@ -1,0 +1,12 @@
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Feature & Coefficient & p-value \\ \hline
+(Intercept) & -6.7638 & \textless 2e-16 \\ \hline
+unemployment index & 0.0026 & 1.74e-15 \\ \hline
+follower index & -0.1532 & 1.62e-11 \\ \hline
+friend index & 0.0852 & 1.2e-04 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}

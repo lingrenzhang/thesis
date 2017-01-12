@@ -1,0 +1,81 @@
+print(getLogLikelihood(predEconBernoulli, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predHybridBernoulli, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predSocialBernoulli, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predEconMonthly, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+print(getLogLikelihood(predHybridMonthly, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+print(getLogLikelihood(predSocialMonthly, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+
+print(getLogLikelihood(predEconBernoulliFull, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predHybridBernoulliFull, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predSocialBernoulliFull, defaultBernoulliInSample) / length(defaultBernoulliInSample))
+print(getLogLikelihood(predEconMonthlyFull, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+print(getLogLikelihood(predHybridMonthlyFull, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+print(getLogLikelihood(predSocialMonthlyFull, defaultMonthlyInSample) / length(defaultMonthlyInSample))
+
+big
+[1] -0.4024598
+[1] -0.402996
+[1] -0.5950169
+[1] -0.09373531
+[1] -0.09378094
+[1] -0.09807167
+   
+[1] -0.4015119
+[1] -0.398968
+[1] -0.5949698
+[1] -0.09373774
+[1] -0.09378261
+[1] -0.09807133
+
+small
+[1] -0.4173635
+[1] -0.4163838
+[1] -0.6191789
+[1] -0.0793507
+[1] -0.07938003
+[1] -0.083404
+
+[1] -0.4146374
+[1] -0.4075593
+[1] -0.6177859
+[1] -0.07935035
+[1] -0.07937508
+[1] -0.08340109
+
+b2c
+[1] -0.402833
+[1] -0.4013956
+[1] -0.5945244
+[1] -0.07213244
+[1] -0.07207863
+[1] -0.07593562
+
+[1] -0.3994923
+[1] -0.3824991
+[1] -0.5902642
+[1] -0.07212631
+[1] -0.07207597
+[1] -0.07594187
+
+b2b
+[1] -0.4140998
+[1] -0.4164565
+[1] -0.6312203
+[1] -0.08527492
+[1] -0.08533153
+[1] -0.08948617
+
+[1] -0.4110585
+[1] -0.405677
+[1] -0.6240821
+[1] -0.08527834
+[1] -0.0853513
+[1] -0.08948532
+
+social monthly non-linear
+[1] -0.08365721 (full)
+[1] -0.08366643 (aic)
+
+social media exist
+[1] -0.2454556 (twitter)
+[1] -0.2243556 (fb)

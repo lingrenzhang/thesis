@@ -1,0 +1,12 @@
+> print(getLogLikelihood(predSocialBernoulli, defaultBernoulli) / length(defaultBernoulli))
+[1] -0.7171157
+> print(getLogLikelihood(predEconBernoulli, defaultBernoulli) / length(defaultBernoulli))
+[1] -0.2557094
+> print(getLogLikelihood(predHybridBernoulli, defaultBernoulli) / length(defaultBernoulli))
+[1] -0.3449278
+> print(getLogLikelihood(predSocialMonthly, defaultMonthly) / length(defaultMonthly))
+[1] -0.07794436
+> print(getLogLikelihood(predEconMonthly, defaultMonthly) / length(defaultMonthly))
+[1] -0.02973789
+> print(getLogLikelihood(predHybridMonthly, defaultMonthly) / length(defaultMonthly))
+[1] -0.02881446

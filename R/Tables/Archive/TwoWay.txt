@@ -1,0 +1,8 @@
+\begin{table}[h]
+\begin{tabular}{|l|l|l|l|}
+\hline
+ & Default & No Default & Default Percentage \\ \hline
+Twitter & 2722 & 23941 & 10.21\% \\ \hline
+No Twitter & 41911 & 279971 & 13.02\% \\ \hline
+\end{tabular}
+\end{table}

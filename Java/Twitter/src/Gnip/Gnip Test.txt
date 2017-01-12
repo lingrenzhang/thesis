@@ -1,0 +1,7 @@
+Total 34172 names, 9 years
+
+batchTest1 2400 names, 9 years.  Estimated time 220 hours.  Estimated size 760.84MB
+https://historical.gnip.com/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/eeymfz06gs.json
+
+batchTest2 24000 names, 1 year.  Estimated time 31.0 hours.  Estimated size 3734.65MB
+https://historical.gnip.com:443/accounts/StanfordResearch/publishers/twitter/historical/track/jobs/pgj9hz6s8a.json
